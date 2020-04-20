@@ -1,0 +1,15 @@
+{
+  "TOKEN": "PUT_YOUR_TOKEN_HERE",
+  "OWNER_ID": "PUT_YOUR_ID_HERE",
+  "PREFIX": "PUT_YOUR_PREFIX_HERE",
+  "DEF_VOL": "100",
+  "DEF_TIMEOUT": "180",
+  "DEF_VOTE": "50",
+  "VER": "1.0.3",
+  "LOVER_ROLE": 0,
+  "PATRON_ROLE": 0,
+  "BASIC_PATRON_ROLE": 0,
+  "VOTER_ROLE": 0,
+  "DB_PORT": 27017,
+  "DB_HOST": "localhost"
+}
